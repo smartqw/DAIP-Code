@@ -1,0 +1,18 @@
+S.no
+12345
+----------------------
+ID
+12345
+name
+ram
+nominee name
+sonu
+relationship
+nephew
+dob of nominee
+15 March 2000
+demise date 
+31 May 2059
+issue date 
+10 June 2059
+----------------------

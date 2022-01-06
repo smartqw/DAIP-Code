@@ -1,0 +1,23 @@
+The pseduo id tilda of user is 
+4c7a070425e08318a97ad95b5ff6d3f9cf0263f0f6aa4c28f14350aa0c4f3da6
+The account ID is 
+987654321012345
+The Organization name is 
+www.facebook.com
+the ID of nominee is 
+123456789
+the relation with user is 
+Brother
+preferance level is 
+1
+the ID of nominee is 
+987654321
+the relation with user is 
+Brother
+preferance level is 
+2
+ begin signature 
+0x84041c3717f8fa37d92463e7712d85e5cff31979bf0cf5276bb658ef514212c8b0ac36f6ec19954a50aace96094cd3d8dca37a20abac6491def953f39094db6a038e05aa3e80536f7f045f649acfdbf37bb8ebddd2da420beb636b54537515989ea9ea2771933bcdc2e37bb5f5f14a184d8783ee825f59300b21203331a218ad
+end signature 
+begin nonce 
+RftW2UXWKrtVrJzAx0I3yGsm0yEcYHq6

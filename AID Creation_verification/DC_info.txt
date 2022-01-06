@@ -1,0 +1,10 @@
+S.no
+12345
+ID
+12345
+name
+ram
+demise date 
+31 May 2059
+issue date 
+10 June 2059
